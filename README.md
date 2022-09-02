@@ -1,0 +1,1 @@
+[![Python application test with Github Actions](https://github.com/MelnyksOrg/pytest-tips-and-tricks/actions/workflows/testing-ci.yml/badge.svg)](https://github.com/MelnyksOrg/pytest-tips-and-tricks/actions/workflows/testing-ci.yml)
