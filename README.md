@@ -1,1 +1,0 @@
-# pytest-tips-and-tricks
