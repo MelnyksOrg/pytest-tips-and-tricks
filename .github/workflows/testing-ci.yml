@@ -25,4 +25,5 @@ jobs:
         run: |
           make test
       - name: Format
+        run: |
           make format
