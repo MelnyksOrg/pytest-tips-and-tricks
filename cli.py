@@ -13,7 +13,3 @@ def make_change(amount):
     for correct_change in result:
         for num, coin in correct_change.items():
             click.echo(click.style(f"{coin}: {num}", fg="green"))
-
-
-if __name__ == "__main__":
-    make_change()
